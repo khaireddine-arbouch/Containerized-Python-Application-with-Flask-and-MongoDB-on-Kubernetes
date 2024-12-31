@@ -120,13 +120,3 @@ The project includes detailed explanations and instructions in the following fil
 *   `README.md`: This file provides a comprehensive guide to installing and using the system.
 *   `api/Dockerfile`: This file explains how the Docker image for the Flask application is built.
 *   `kubernetes/*.yaml`: These files explain the Kubernetes resources used to deploy the application and database.
-
-## Submission
-
-Students must submit the following:
-
-*   Entire source code for the Python program (`api` directory)
-*   YAML files for Kubernetes resources (`kubernetes` directory)
-*   Documentation with explanations and detailed instructions (`README.md`)
-
-This project provides a hands-on experience in building and deploying a containerized Python application on Kubernetes. By following the instructions and completing the submission requirements, students will gain valuable skills in containerization, orchestration, and cloud-native development.
